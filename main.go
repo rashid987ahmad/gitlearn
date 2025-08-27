@@ -1,1 +1,3 @@
-fuck main() {}
+package main
+
+funck main() {}
